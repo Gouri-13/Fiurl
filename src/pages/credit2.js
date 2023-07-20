@@ -62,42 +62,43 @@ const finance = () => {
       <div className="mt-8 mx-2 md:mt-12 md:mx-10 xl:mx-18 " style={{ textAlign:"justify"}}>
         <div className="flex flex-col md:flex-row">
           <div className="md:w-7/12 xl:w-8/12">
-            <p className="pb-6">It’s normal for credit scores to fluctuate from one month to the next.
+            <p className="pb-6">Credit scores may change from one month to the next.
 
-No one should lose sleep over a few points since they can be lost and gained back easily. But if you see a big drop—of 20 points or more—it’s likely that something negative appeared on your credit reports.
+Few points shouldn't cause anyone to lose sleep because they are easily lost and earned back. However, a significant decline—of 20 points or more—indicates that something unfavourable may have happened to your credit reports.
 
-If you’re asking yourself, “Why did my credit score drop?” take a look at these likely reasons and corresponding tips for what to do about each of them.</p>
+Whenever you find yourself wondering "Why did my credit score drop?" look at these potential causes and the related advice on how to handle each of them.
+</p>
             <br />
         <ul className="pl-2 mb-8 list-disc">
         <b className='ab'>5 reasons why your credit score dropped:</b><br /> <br /> <br /><p><b>1. You missed a debt payment</b><br /><br />
-<p>Missing just one payment on a credit card or loan can cause your credit scores to drop as much as 15 to 80 points or more.</p>  
+<p>Your credit scores might decrease by up to 80 points or more if you miss just one payment on a credit card or loan.
+</p>  
 <p>
-That’s because payment history is the biggest factor in calculating your FICO credit scores. It accounts for more than a third (35%) of your scores. If a creditor reports you as 30 days late on just one debt payment, your scores can take a big hit. </p>
-<p>
-Even if you pay the overdue balance, the missed payment will stay on your credit reports for seven years, but fortunately you can regain the points back over time.</p>
-<p>
-<b>Tip:</b> Be proactive in avoiding missed payments by setting up autopay. If you think you might miss a payment, see if you can change your due date or ask the creditor if they offer hardship assistance. </p><br /></p>
+This is so because the primary component used to determine your FICO credit scores is your payment history. More over one-third (35%) of your marks are determined by it. Your credit ratings may suffer significantly if a creditor notes that you are just one bill payment behind by 30 days. </p> <p>
+Although the missed payment will remain on your credit records for seven years even if you pay the past-due bill, you can thankfully earn the lost points back over time.</p> 
+<p> <b>Tip:</b> Set up autopay to be proactive about preventing forgotten payments. If you believe you could be late with a payment, try to modify the date or inquire about hardship assistance from the creditor. </p><br /></p>
 <p><b>
 2. Your credit card balance(s) increased </b><br /><br />
-<p>The second biggest factor that determines your credit scores (30%) is your utilization ratio, also known as your debt-to-credit ratio (DTC). DTC looks at how much of your available revolving credit you’re using, and the less the better. So if your credit card balances increase, your scores can drop. </p></p>
+<p>Your utilisation ratio, commonly referred to as your debt-to-credit ratio (DTC), is the second most important component that affects your credit ratings (30%). The less of your available revolving credit you are utilising, the better, according to DTC. Therefore, your credit scores may suffer if your credit card balances rise. </p></p>
 <p><b><br /><br />
 3. Incorrect information</b><br /><br />
-<p>If incorrect information appears on your reports, whether it’s due to a creditor’s error or identity fraud, your scores could take a hit. </p>
-<p>If you find an error on your credit report, you can dispute the incorrect information. Filing a dispute only takes a few minutes and it’s free to file, so you should never pay a third party to file a dispute on your behalf.</p>
+<p>Your scores may suffer if inaccurate information appears on your reports, whether as a result of identity theft or creditor error. </p> <p>You have the right to challenge inaccurate information if you discover it in your credit report. You should never pay a third party to submit a claim on your behalf because it only takes a few minutes and is free to do so.</p>
 </p><br /><br />
 <p><b>4. You applied for a new credit card or loan</b><br /><br />
-<p>Every time you apply for new debt, whether it’s a mortgage, personal loan, student loan, credit card or otherwise, your credit scores can drop by a few points. That’s because new credit applications, also known as “hard inquiries,” make up 10% of your credit scores.</p>  
+<p>Your credit scores may decrease by a few points each time you apply for new credit, whether it be a credit card, personal loan, student loan, mortgage, or another type of loan. This is due to the fact that new credit applications, sometimes referred to as "hard inquiries," account for 10% of your credit ratings.</p> <p>
+Since new accounts decrease the average age of your credit accounts, you can experience a further decline in your ratings if your application is accepted.
+</p>
 <p>
-If your application is approved, you may see an additional drop in your scores, since new accounts reduce the average age of your credit accounts.</p>
-<p>
-<b>Tip:</b> If you’re shopping around for financing, time your applications wisely. Multiple applications for one type of account (such as a car loan or mortgage) will only count as one hard inquiry if they’re all made within 30 days.
+<b>Tip:</b> When looking for finance, consider the best time to submit your applications. Multiple mortgage or auto loan applications will only count as one hard inquiry if they are all submitted within 30 days.
 </p><br /></p>
 <p><b>
-5. You filed bankruptcy </b><br /><br /><p>Bankruptcy is one of the most negative items that can appear on your credit reports, since it shows creditors that you’re unable to pay back your debt.</p>
+5. You filed bankruptcy </b><br /><br /><p>One of the most damaging items that can appear on your credit reports is bankruptcy because it demonstrates to creditors your inability to repay debts.</p> <p>
+Expect your scores to significantly decline if you file for bankruptcy; the higher your scores were before to filing, the more points you'll lose. Good credit holders should anticipate a reduction of at least 100 points.
+</p>
 <p>
-If you file bankruptcy, you can expect to see your scores take a large drop, and the higher your scores were before filing, the more points you’ll lose. Someone with good credit scores can expect a drop of 100 points or more.</p>
-<p>
-<b>Tip:</b> You can speed up the process of recovery after bankruptcy by adding positive information to your credit reports. One way to do this is by having a friend or family member add you as an “authorized user” to a credit account that’s in good standing. You can also try applying for a secured credit card.
+<b>Tip:</b> By including good information in your credit reports, you can hasten the bankruptcy recovery process. One technique to accomplish this is to have a close friend or relative add you as a "authorised user" to one of their credit accounts. Another option is to try to get a secured credit card.
+
+
 </p><br /></p>
           </ul>
           </div>

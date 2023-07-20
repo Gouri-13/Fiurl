@@ -1,5 +1,5 @@
 import React from "react";
-import Registration from "./pages/Registration";
+import Registration from "./prefr/Registration";
 
 export default function Product(props) {
   return (
