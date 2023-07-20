@@ -495,7 +495,7 @@ const Payment = () => {
                     <span className="text-blue-500">Privacy Policy</span>.
                   </p>
                 </div>
-               <Link to="/documents"><button
+               <Link to="/LenderofferPL"><button
                  
                   className="w-full text-white text-base font-medium h-10 rounded-md bg-black" >
                   Get Offers

@@ -67,7 +67,7 @@ const ImageUploader = () => {
       <button className="w-full text-white text-base font-medium h-10 rounded-md bg-black mt-10"  onClick={handleSelectImage}>
         Select Image
       </button>
-      <Link to="/Driving_License"><button
+      <Link to="/KYCProof"><button
                  
                  className="w-full text-white text-base font-medium h-10 rounded-md bg-black mt-10" >
                 PROCEED

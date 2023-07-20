@@ -31,7 +31,7 @@ Conditions and privacy policy.
 credit bureau as required. </p><br/>
               <div className="flex flex-col gap-3">
                
-            <Link to="/Additional_Details">   <button
+            <Link to="/OfferApproved">   <button
                   
                   className="w-full text-gray-200 text-base font-medium h-10 rounded-md hover:text-white duration-300 bg-black mt-4">
                  I AGREE

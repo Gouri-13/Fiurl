@@ -36,6 +36,9 @@ import Address from "./prefr/address";
 import Setup from "./prefr/repayset";
 import BankDetails from "./prefr/bankdetails";
 import SearchIfsc from "./prefr/searchIfsc";
+import KYCProof from "./prefr/kycproof";
+import OfferApproved from "./prefr/OfferApproved";
+import LenderOffer from "./prefr/lenderOffer";
 function App() {
   return (
     <div>
@@ -75,6 +78,9 @@ function App() {
           <Route path="/RepaymentSetup" element={<Setup />} />
           <Route path="/BankDetails" element={<BankDetails />} />
           <Route path="/SearchIFSC" element={<SearchIfsc />} />
+          <Route path="/KYCProof" element={<KYCProof />} />
+          <Route path="/OfferApproved" element={<OfferApproved />} />
+          <Route path="/LenderofferPL" element={<LenderOffer />} />
         </Routes>
        
         <Footer />      
